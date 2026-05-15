@@ -43,7 +43,7 @@ Sou um desenvolvedor e analista de sistemas focado na arquitetura de ecossistema
 Você pode me encontrar rapidamente através dos canais abaixo. Estou sempre aberto para falar sobre arquitetura de software, automações e novas oportunidades.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-paolielo-boaro-1414b135a)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelboaro7@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelboaro7@gmail.com) **rafaelboaro7@gmail.com**
 
 ---
 *“A eficiência de um sistema reflete a clareza lógica de quem o construiu.”*
