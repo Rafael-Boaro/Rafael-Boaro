@@ -37,6 +37,7 @@ Sou um desenvolvedor e analista de sistemas focado na arquitetura de ecossistema
 - **Cibersegurança e Proteção de Redes Corporativas** (Cisco Networking Academy)
 - **Administração de Banco de Dados Azure AI & IA Generativa** (Microsoft Learn)
 - **Treinamento Prático: n8n – Do Zero ao Projeto com IA** (UNIP)
+- **Bootcamp Afya - Automação de Dados com IA** (DIO)
 
 ---
 
