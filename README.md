@@ -17,7 +17,6 @@ Sou um desenvolvedor e analista de sistemas focado na arquitetura de ecossistema
 ### 🛠️ Meu Arsenal Técnico (Tech Stack)
 
 **Linguagens & Back-end:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
