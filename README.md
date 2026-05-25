@@ -1,50 +1,57 @@
 # Olá, eu sou o Rafael Boaro! 👋
 
-**Desenvolvedor Back-end | Automação (RPA) | Infraestrutura em Nuvem**
+**Desenvolvedor Back-end & Dados | Engenharia de Software | Full-Stack em Formação**
 
-Sou um desenvolvedor e analista de sistemas focado na arquitetura de ecossistemas corporativos seguros, manipulação de dados e integrações. Aliado a certificações oficiais em **Cibersegurança (Cisco)** e **Cloud Computing (AWS)**, priorizo a entrega de código limpo, a estabilidade de sistemas sob pressão e o troubleshooting metódico focado na resolução da causa raiz.
+Sou um desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas focado na arquitetura de ecossistemas corporativos escaláveis, modelagem de dados e integrações[cite: 1, 2]. Priorizo a entrega de código limpo, a segurança de rotas (Cibersegurança) e a resolução metódica de problemas da causa raiz[cite: 2]. Construo aplicações reais de ponta a ponta, unindo o poder de processamento do Back-end com interfaces dinâmicas[cite: 1].
 
 ---
 
 ### 🚀 O que estou fazendo agora
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na FATEC.
-- ⚙️ Desenvolvendo **APIs RESTful** escaláveis e microsserviços.
-- 🤖 Criando **automações e robôs (RPA)** em Python e n8n para otimização de fluxos corporativos.
-- ☁️ Aprofundando estudos em **Infraestrutura AWS** e **Inteligência Artificial**.
+
+* 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na FATEC[cite: 1, 2].
+* ⚙️ Desenvolvendo arquiteturas **Multi-Tenant** e APIs RESTful seguras[cite: 1, 2].
+* 🖥️ Consumindo dados via interfaces modernas com **React**[cite: 1].
+* 📚 Aprofundando estudos em Engenharia de Dados, Cibersegurança e Lógica Relacional (SQL)[cite: 1].
 
 ---
 
 ### 🛠️ Meu Arsenal Técnico (Tech Stack)
 
-**Linguagens & Back-end:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+**Linguagens & Front-end:**  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-**Banco de Dados & ORM:** ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Banco de Dados & ORM:**  
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white)
 
-**Infraestrutura, Segurança & Ferramentas:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+**Infraestrutura & Ferramentas:**  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
 
 ### 🏆 Certificações em Destaque
-- **Cibersegurança e Proteção de Redes Corporativas** (Cisco Networking Academy)
-- **Administração de Banco de Dados Azure AI & IA Generativa** (Microsoft Learn)
-- **Treinamento Prático: n8n – Do Zero ao Projeto com IA** (UNIP)
-- **Bootcamp Afya - Automação de Dados com IA** (DIO)
+
+* **Bootcamp Automação de Dados com IA** - DIO / Afya[cite: 1, 2]
+* **Santander Bootcamp 2026 (AI React Front-end)** - Santander / DIO[cite: 1]
+* **Bootcamp de Dados, GenAI & Cyber** - Bradesco[cite: 1]
+* **CS50's Introduction to Databases with SQL** - Harvard University[cite: 1]
+* **Cibersegurança e Proteção de Redes Corporativas** - Cisco Networking Academy[cite: 2]
 
 ---
 
 ### 📫 Como falar comigo
-Você pode me encontrar rapidamente através dos canais abaixo. Estou sempre aberto para falar sobre arquitetura de software, automações e novas oportunidades.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-paolielo-boaro-1414b135a)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelboaro7@gmail.com) **rafaelboaro7@gmail.com**
+Você pode me encontrar rapidamente através dos canais abaixo[cite: 2]. Estou sempre aberto para falar sobre arquitetura de software, automações e novas oportunidades de negócio[cite: 2].
 
----
-*“A eficiência de um sistema reflete a clareza lógica de quem o construiu.”*
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-paolielo-boaro-1414b135a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelboaro7@gmail.com)
+
+<br>
+
+> *"A eficiência de um sistema reflete a lógica clara de quem o construiu."*[cite: 2]
