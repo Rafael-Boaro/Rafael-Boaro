@@ -52,6 +52,7 @@ Atualmente, estou expandindo o meu escopo de atuação para **Full-Stack**, unin
 * **Santander Bootcamp 2026 (AI React Front-end)** - DIO / Santander *(Em andamento)*
 * **Bootcamp de Dados, GenAI & Cyber** - Bradesco *(Em andamento)*
 * **Bootcamp Automação de Dados com IA** - DIO / Afya
+* **Introdução à Cibersegurança** - Cisco Networking Academy / Fatec
 
 ---
 
