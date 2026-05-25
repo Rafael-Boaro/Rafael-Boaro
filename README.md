@@ -22,7 +22,7 @@ Atualmente, estou expandindo o meu escopo de atuação para **Full-Stack**, unin
 **Back-end & Front-end:**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=php)
+![PHP](https://shields.io/badge/-PHP-3776AB?style=for-the-badge&logo=phpColor=%2361DAFB)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -60,6 +60,6 @@ Atualmente, estou expandindo o meu escopo de atuação para **Full-Stack**, unin
 Estou sempre aberto a conversas sobre engenharia de software, modelagem de dados e oportunidades para construir sistemas que resolvem problemas reais de negócio.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-paolielo-boaro-1414b135a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelboaro7@gmail.com)(mailto:rafaelboaro7@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelboaro7@gmail.com)(rafaelboaro7@gmail.com)
 
 *"A eficiência de um sistema reflete a lógica rigorosa de quem o arquitetou."*
