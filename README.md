@@ -24,6 +24,6 @@ Atualmente, atuo com **Data Quality e Visão Computacional na Stringhini Varejo 
 
 📫 **Como me encontrar:**
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-paolielo-boaro-1414b135a)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelboaro7@gmail.com)(rafaelboaro7@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaelboaro7@gmail.com)
 
 *"A eficiência de um sistema reflete a lógica rigorosa de quem o arquitetou."*
