@@ -10,9 +10,6 @@ Atualmente, estou expandindo o meu escopo de atuação para **Full-Stack**, unin
 
 ### 🚀 O que estou construindo agora
 
-* 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na FATEC.
-* ⚙️ Desenvolvendo uma plataforma **Multi-Tenant Micro-SaaS** de periodização de treinos, orquestrando bancos relacionais com Node.js e Prisma ORM.
-* 🖥️ Consumindo APIs RESTful e criando componentes visuais com **React**.
 * 📚 Aprofundando conhecimentos em **Lógica Relacional Avançada** e **Infraestrutura/Cibersegurança**.
 
 ---
