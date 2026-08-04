@@ -21,6 +21,6 @@ Atualmente, atuo com **Data Quality e Visão Computacional na Stringhini Varejo 
 ### 🚀 O que estou explorando agora
 
 - Integrando fundamentos de **Cibersegurança** no ciclo de desenvolvimento (DevSecOps).
-- Aprofundando conhecimentos em **Inteligência Artificial Generativa** e processamento de dados de alta performance.
+- Aprofundando conhecimentos em **Inteligência Artificial Generativa**, **Machine Learning** e processamento de dados de alta performance.
 
 📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/rafael-paolielo-boaro-1414b135a) · [Gmail](mailto:rafaelboaro7@gmail.com)
