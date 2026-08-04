@@ -10,7 +10,7 @@ Atualmente, atuo com **Data Quality e Visão Computacional na Stringhini Varejo 
 
 ### 🛠️ Stack principal
 
-- 💻 **Back-end:** Node.js, Python, PHP, APIs RESTful
+- 💻 **Back-end:** Python, PHP, APIs RESTful
 - 🗄️ **Dados:** SQL, MySQL, Prisma ORM, pipelines ETL, Data Quality
 - 🌐 **Front-end:** React, TypeScript, JavaScript
 
