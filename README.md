@@ -14,7 +14,7 @@ Atualmente, atuo com **Data Quality e Visão Computacional na Stringhini Varejo 
 - 🗄️ **Dados:** SQL, MySQL, Prisma ORM, pipelines ETL, Data Quality
 - 🌐 **Front-end:** React, TypeScript, JavaScript
 
-**Também tenho experiência com:** SQLite, Oracle, Webhooks, HTML5/CSS3, fundamentos de segurança de SO e testes de vulnerabilidade — e venho me aprofundando em DevSecOps e IA Generativa.
+**Também tenho experiência com:** SQLite, Oracle, Webhooks, HTML5/CSS3, fundamentos de segurança de SO e testes de vulnerabilidade e venho me aprofundando em DevSecOps e IA Generativa.
 
 ---
 
