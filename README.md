@@ -1,11 +1,12 @@
-### Olá! 👋 Sou o Rafael Paolielo Boaro
+# Rafael Paolielo Boaro
 
-**Desenvolvedor Backend | Dados | IA & Cibersegurança**
+Estudante de ADS | Dados & IA
 
-Estudante de Análise e Desenvolvimento de Sistemas (FATEC), apaixonado por construir arquiteturas escaláveis, automatizar processos e resolver problemas complexos através de código limpo e seguro.
+Estudante de Análise e Desenvolvimento de Sistemas na FATEC, com experiência profissional em Data Annotation e Data Quality para modelos de Computer Vision.
 
-Atualmente, atuo com **Data Quality e Visão Computacional na Stringhini Varejo Inteligente**, auditando e refinando bases de dados massivas para o treinamento de modelos de Inteligência Artificial.
+Tecnologias: Python, SQL, Pandas, ETL, Machine Learning, PyTorch, Scikit-Learn, TensorFlow, RAG e Git.
 
+Busco oportunidades de estágio ou efetivo em Engenharia de Dados, Data Analytics, Ciência de Dados e IA.
 ---
 
 ### Stack principal
