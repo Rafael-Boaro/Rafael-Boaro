@@ -17,7 +17,7 @@ Estudante de Análise e Desenvolvimento de Sistemas na **FATEC Mococa** e atualm
   │  & ORQUESTRAÇÃO  │    │    ARTIFICIAL    │    │   & ANALYTICS    │
   ├──────────────────┤    ├──────────────────┤    ├──────────────────┤
   │ • AWS Step Func. │    │ • Agentes de IA  │    │ • SQL (Harvard)  │
-  │ • n8n Workflows  │    │ • Gemini / OpenAI│    │ • Pipelines ETL  │
+  │ • n8n Workflows  │    │ • IA Generativa  │    │ • Pipelines ETL  │
   │ • Python Scripts │    │ • PyTorch (DL)   │    │ • Pandas & SQLite│
   │ • Git Governance │    │ • Prompt Eng.    │    │ • Data Quality   │
   │ • Webhooks       │    │ • Scikit-Learn   │    │ • B-Tree Indexing│
