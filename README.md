@@ -1,4 +1,4 @@
-# Olá, eu sou o Rafael Boaro 👋
+# Olá, eu sou o Rafael Boaro 
 ### Automação de Processos | Inteligência Artificial | Engenharia de Dados
 
 Estudante de Análise e Desenvolvimento de Sistemas na **FATEC Mococa** e atualmente atuando como **Estagiário em Data Annotation & Data Quality para IA** na *Stringhini Varejo Inteligente*. Desenvolvo soluções práticas integrando automação com Python e nuvem, agentes inteligentes com LLMs, redes neurais e pipelines de dados de alta performance com modelagem SQL avançada.
